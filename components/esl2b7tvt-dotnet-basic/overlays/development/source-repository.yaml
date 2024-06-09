@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: esl2b7tvt-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/esl2b7tvt-dotnet-basic
